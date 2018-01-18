@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "my bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wenderhg/bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Hooberth Wender Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenderhg/bot/issues"
+  },
+  "homepage": "https://github.com/wenderhg/bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
